@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="delft.wur.sri.nl">
-      My New plugins
-   </description>
-   <feature url="features/institution.srirama_1.0.0.201712061900.jar" id="institution.srirama" version="1.0.0.201712061900" os="macosx,win32" arch="x86,x86_64"/>
+   <feature url="features/institution.srirama_1.0.0.201712062332.jar" id="institution.srirama" version="1.0.0.201712062332"/>
 </site>
